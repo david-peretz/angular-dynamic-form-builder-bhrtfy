@@ -6,7 +6,6 @@ import { ReactiveFormsModule } from '@angular/forms';
 
 import { DynamicFormBuilderModule } from './dynamic-form-builder/dynamic-form-builder.module';
 
-import {} from './'
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
